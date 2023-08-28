@@ -10,7 +10,7 @@ InsuranceApp uses a number of open source projects to work properly:
 ### git clone
 
 ```
-$ git clone https://github.com/rmerzak/InsuranceApp-front-end.git
+$ git clone git@github.com:rmerzak/InsuranceApp-Frontend.git
 ```
 ## Installation
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
