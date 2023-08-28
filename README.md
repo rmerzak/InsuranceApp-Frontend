@@ -7,13 +7,7 @@ InsuranceApp uses a number of open source projects to work properly:
 - Java Spring Boot
 - SQL
 - Version Control: Git, GitHub
-### git clone
-
-```
-$ git clone git@github.com:rmerzak/InsuranceApp-Frontend.git
-```
 ## Installation
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 InsuranceApp requires Node.js v16+, AngularJs v16+ and Java v11+ to run .
 Install the dependencies and start the server.
@@ -22,15 +16,6 @@ cd InsuranceApp
 npm install -g @angular/cli
 ng serve
 ```
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-for help: To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
 ## Development
 This project involves creating a web application that manages insurance data. The application is divided into two main parts: the backend, built using Spring Boot with Java, and the frontend, built using Angular. The goal is to establish a functional system where insurance data can be stored, retrieved, and presented in both tabular and card formats.
 ### frontend
@@ -83,9 +68,11 @@ This project involves creating a web application that manages insurance data. Th
 ![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/table%20big2.png?raw=true)
 ![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/filter%20customer%202.png?raw=true)
 ![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/filter%20customer.png?raw=true)
-![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/table%20mobile.png?raw=true)
+![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/table%20mobilee.png?raw=true)
 ![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/mobile%20version.png?raw=true)
 ![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/dialog.png?raw=true)
-![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/dialog%20mobile.png?raw=true)
+![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/dialog%20mobilee.png?raw=true)
 ![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/card.png?raw=true)
-![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/cardMobile.png?raw=true)
+![](https://github.com/rmerzak/InsuranceApp-SpringBoot-Angular/blob/main/imgs/cardMobilee.png?raw=true)
+
+
