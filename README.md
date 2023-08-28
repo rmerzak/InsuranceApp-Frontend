@@ -7,6 +7,11 @@ InsuranceApp uses a number of open source projects to work properly:
 - Java Spring Boot
 - SQL
 - Version Control: Git, GitHub
+### git clone
+
+```
+$ git clone https://github.com/rmerzak/InsuranceApp-front-end.git
+```
 ## Installation
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
